@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Obuchenie\dz6\dz6\obj\Debug\dz6.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Obuchenie\dz6\dz6\obj\Debug\dz6.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Obuchenie\dz6\dz6\bin\Debug\dz6.exe.config
+C:\Users\User\Documents\Obuchenie\dz6\dz6\bin\Debug\dz6.exe
+C:\Users\User\Documents\Obuchenie\dz6\dz6\bin\Debug\dz6.pdb
+C:\Users\User\Documents\Obuchenie\dz6\dz6\obj\Debug\dz6.exe
+C:\Users\User\Documents\Obuchenie\dz6\dz6\obj\Debug\dz6.pdb

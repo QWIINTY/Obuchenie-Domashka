@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Obuchenie\dz3.2\dz3.2\bin\Debug\dz3.2.exe.config
+C:\Users\User\Documents\Obuchenie\dz3.2\dz3.2\bin\Debug\dz3.2.exe
+C:\Users\User\Documents\Obuchenie\dz3.2\dz3.2\bin\Debug\dz3.2.pdb
+C:\Users\User\Documents\Obuchenie\dz3.2\dz3.2\obj\Debug\dz3.2.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Obuchenie\dz3.2\dz3.2\obj\Debug\dz3.2.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Obuchenie\dz3.2\dz3.2\obj\Debug\dz3.2.exe
+C:\Users\User\Documents\Obuchenie\dz3.2\dz3.2\obj\Debug\dz3.2.pdb

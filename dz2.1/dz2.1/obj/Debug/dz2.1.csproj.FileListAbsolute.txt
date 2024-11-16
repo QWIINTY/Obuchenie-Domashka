@@ -1,0 +1,7 @@
+C:\Users\User\Documents\Obuchenie\dz2.1\dz2.1\bin\Debug\dz2.1.exe.config
+C:\Users\User\Documents\Obuchenie\dz2.1\dz2.1\bin\Debug\dz2.1.exe
+C:\Users\User\Documents\Obuchenie\dz2.1\dz2.1\bin\Debug\dz2.1.pdb
+C:\Users\User\Documents\Obuchenie\dz2.1\dz2.1\obj\Debug\dz2.1.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Obuchenie\dz2.1\dz2.1\obj\Debug\dz2.1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Obuchenie\dz2.1\dz2.1\obj\Debug\dz2.1.exe
+C:\Users\User\Documents\Obuchenie\dz2.1\dz2.1\obj\Debug\dz2.1.pdb

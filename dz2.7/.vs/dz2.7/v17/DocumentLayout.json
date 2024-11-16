@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\Obuchenie\\dz2.7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46A7B871-1D0C-4079-A56F-C9B2144BE4A7}|dz2.7\\dz2.7.csproj|c:\\users\\user\\documents\\obuchenie\\dz2.7\\dz2.7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A7B871-1D0C-4079-A56F-C9B2144BE4A7}|dz2.7\\dz2.7.csproj|solutionrelative:dz2.7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\Obuchenie\\dz2.7\\dz2.7\\Program.cs",
+              "RelativeDocumentMoniker": "dz2.7\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\Obuchenie\\dz2.7\\dz2.7\\Program.cs",
+              "RelativeToolTip": "dz2.7\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:48:33.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
