@@ -17,7 +17,7 @@ namespace dz3._5
             {
                 for (int j = i + 1; j < array.Length; j++)
                 {
-                    if (array[i] > array[j])
+                    if (array[i] < array[j])
                     {
                         tempNumber = array[j];
                         array[j] = array[i];
