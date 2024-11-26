@@ -1,0 +1,7 @@
+F:\Projects\Obuchenie-Domashka\dz3.8\dz3.8\bin\Debug\dz3.8.exe.config
+F:\Projects\Obuchenie-Domashka\dz3.8\dz3.8\bin\Debug\dz3.8.exe
+F:\Projects\Obuchenie-Domashka\dz3.8\dz3.8\bin\Debug\dz3.8.pdb
+F:\Projects\Obuchenie-Domashka\dz3.8\dz3.8\obj\Debug\dz3.8.csproj.AssemblyReference.cache
+F:\Projects\Obuchenie-Domashka\dz3.8\dz3.8\obj\Debug\dz3.8.csproj.CoreCompileInputs.cache
+F:\Projects\Obuchenie-Domashka\dz3.8\dz3.8\obj\Debug\dz3.8.exe
+F:\Projects\Obuchenie-Domashka\dz3.8\dz3.8\obj\Debug\dz3.8.pdb
