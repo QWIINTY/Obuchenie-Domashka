@@ -1,0 +1,7 @@
+F:\Projects\Obuchenie-Domashka\4.1\4.1\bin\Debug\4.1.exe.config
+F:\Projects\Obuchenie-Domashka\4.1\4.1\bin\Debug\4.1.exe
+F:\Projects\Obuchenie-Domashka\4.1\4.1\bin\Debug\4.1.pdb
+F:\Projects\Obuchenie-Domashka\4.1\4.1\obj\Debug\4.1.csproj.AssemblyReference.cache
+F:\Projects\Obuchenie-Domashka\4.1\4.1\obj\Debug\4.1.csproj.CoreCompileInputs.cache
+F:\Projects\Obuchenie-Domashka\4.1\4.1\obj\Debug\4.1.exe
+F:\Projects\Obuchenie-Domashka\4.1\4.1\obj\Debug\4.1.pdb
