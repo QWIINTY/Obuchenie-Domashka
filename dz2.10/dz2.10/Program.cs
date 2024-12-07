@@ -38,21 +38,41 @@ namespace dz2._10
 
             int minBossDamage = 5;
             int maxBossDamage = 25;
-            Random bossRandom = new Random();   
+            Random bossRandom = new Random();
+
+            int maxPlayerHealth = 100;
+            int maxPlayerMana = 50;
+            int maxBossHealth = 500;
+
+            string nameBarPlayerHealt = "ХП";
+            string nameBarPlayerManna = "МП";
+            string nameBarBossHealth = "ХП БОССА";
 
             Console.WriteLine($"Перед тобой стоит босс подземелья.\nУ тебя есть несколько вариантов атаки." +
                 $"\nТы и босс атакуете по очереди.\nСейчас твой ход.\nВыбери, что будешь делать." +
                 $"\nЕсли ошибёшься с вводом, ход перейдет к боссу!");
-            Console.WriteLine($"Твоё здоровье: {playerHealth}.\nТвоя манна: {playerManna}.");
-            Console.WriteLine($"Здоровье босса: {bossHealth}.");
-            Console.WriteLine($"Ты можешь:\n{commandPlayerAttack}. Обычная атака." +
+            Console.WriteLine("[ Нажми любую кнопку, чтобы начать игру ]");
+            Console.ReadKey();
+            Console.Clear();
+
+
+            while (playerHealth > 0 || bossHealth > 0)
+            {
+
+                //int playerPercentHealth = playerHealth / maxPlayerHealth * 100;
+                //int playerPercentManna = playerManna / maxPlayerMana * 100;
+
+                DisplayBar(playerHealth, maxPlayerHealth, ConsoleColor.Red, 0, nameBarPlayerHealt);
+                DisplayBar(playerManna, maxPlayerMana, ConsoleColor.Blue, 1, nameBarPlayerManna);
+                DisplayBar(bossHealth, maxBossHealth, ConsoleColor.DarkMagenta, 3, nameBarBossHealth);
+
+                Console.SetCursorPosition(0, 15);
+                Console.WriteLine($"Ты можешь:\n{commandPlayerAttack}. Обычная атака." +
                 $"\n{commandFireBall}. Огненный шар. Он стоит {fireMannaCost} манны." +
                 $"\n{commandExplosion}. Взрыв. Можно использовать только после огненного шара. Он стоит {explosionMannaCost} манны." +
                 $"\n{commandHeal}. Лечение." +
                 $" Восстанавливает здоровье и манну. Можно использовать только 3 раза.");
 
-            while (playerHealth > 0 || bossHealth > 0)
-            {
                 Console.ForegroundColor = ConsoleColor.Yellow;
                 Console.BackgroundColor = ConsoleColor.DarkGray;
 
@@ -65,12 +85,12 @@ namespace dz2._10
                 playerDamage = playerRandom.Next(minPlayerAttackDamage, maxPlayerAttackDamage);
                 bossDamage = bossRandom.Next(minBossDamage, maxBossDamage);
 
+
                 switch (playerInput)
                 {
                     case commandPlayerAttack:
                         bossHealth -= playerDamage;
                         Console.WriteLine($"Ты нанес {playerDamage} урона.");
-                        Console.WriteLine($"Здоровье босса: {bossHealth}.");
                         break;
                     case commandFireBall:
                         if (playerManna >= fireMannaCost)
@@ -79,8 +99,6 @@ namespace dz2._10
                             bossHealth -= fireBallDamage;
                             canExplosion = true;
                             Console.WriteLine($"Ты нанес {fireBallDamage} урона.");
-                            Console.WriteLine($"Здоровье босса: {bossHealth}.");
-                            Console.WriteLine($"Твоя манна: {playerManna}.");
                             break;
                         }
                         else
@@ -95,8 +113,6 @@ namespace dz2._10
                             playerManna -= explosionMannaCost;
                             canExplosion = false;
                             Console.WriteLine($"Ты нанес {explosionDamage} урона.");
-                            Console.WriteLine($"Здоровье босса: {bossHealth}.");
-                            Console.WriteLine($"Твоя манна: {playerManna}.");
                             break;
                         }
                         else
@@ -113,7 +129,6 @@ namespace dz2._10
                             Console.WriteLine($"Ты восствноыил {healthRestoration} здоровья и " +
                                 $"{mannaRestoration} манны.");
                             Console.WriteLine($"Осталось использований: {trysHeal}");
-                            Console.WriteLine($"Твоё здоровье: {playerHealth}.\nТвоя манна: {playerManna}.");
                             break;
                         }
                         else
@@ -126,6 +141,7 @@ namespace dz2._10
                         break;
                 }
 
+
                 Console.ForegroundColor = ConsoleColor.DarkRed;
                 Console.BackgroundColor = ConsoleColor.DarkGray;
 
@@ -135,8 +151,10 @@ namespace dz2._10
                 Console.BackgroundColor = ConsoleColor.White;
 
                 playerHealth -= bossDamage;
-                Console.WriteLine($"Ты получил {bossDamage} урона.\nТвоё здоровье: {playerHealth}.");
+                Console.WriteLine($"Ты получил {bossDamage} урона.");
 
+                Console.ForegroundColor = ConsoleColor.Gray;
+                Console.BackgroundColor = ConsoleColor.Black;
 
                 if (playerHealth <= 0)
                 {
@@ -156,7 +174,42 @@ namespace dz2._10
                     Console.WriteLine("Ничья.");
                     break;
                 }
+
+
             }
+
         }
+
+        static void DisplayBar(int value, int maxValue, ConsoleColor color, int position, string nameBar)
+        {
+            ConsoleColor defaultColor = Console.BackgroundColor;
+
+            int percent = value;
+
+            string bar = "";
+
+            for (int i = 0; i < percent; i++)
+            {
+                bar += " ";
+            }
+
+            Console.SetCursorPosition(0, position);
+            Console.Write("[");
+            Console.BackgroundColor = color;
+            Console.Write(bar);
+            Console.BackgroundColor = defaultColor;
+
+            bar = "";
+
+            for (int i = percent; i < maxValue; i++)
+            {
+                bar += "_";
+            }
+
+            Console.Write(bar + "]");
+            Console.Write($"{nameBar} - | {percent} / {maxValue} |");
+
+        }
+
     }
 }

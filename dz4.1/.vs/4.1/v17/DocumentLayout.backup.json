@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\Projects\\Obuchenie-Domashka\\4.1\\",
+  "WorkspaceRootPath": "F:\\Projects\\Obuchenie-Domashka\\dz4.1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DB388FB3-621E-4C03-BE6C-4730954A7306}|4.1\\4.1.csproj|f:\\projects\\obuchenie-domashka\\4.1\\4.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DB388FB3-621E-4C03-BE6C-4730954A7306}|4.1\\4.1.csproj|f:\\projects\\obuchenie-domashka\\dz4.1\\4.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB388FB3-621E-4C03-BE6C-4730954A7306}|4.1\\4.1.csproj|solutionrelative:4.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\Projects\\Obuchenie-Domashka\\4.1\\4.1\\Program.cs",
+              "DocumentMoniker": "F:\\Projects\\Obuchenie-Domashka\\dz4.1\\4.1\\Program.cs",
               "RelativeDocumentMoniker": "4.1\\Program.cs",
-              "ToolTip": "F:\\Projects\\Obuchenie-Domashka\\4.1\\4.1\\Program.cs",
+              "ToolTip": "F:\\Projects\\Obuchenie-Domashka\\dz4.1\\4.1\\Program.cs",
               "RelativeToolTip": "4.1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

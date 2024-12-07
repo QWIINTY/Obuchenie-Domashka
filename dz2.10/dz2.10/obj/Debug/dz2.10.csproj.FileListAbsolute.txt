@@ -5,3 +5,10 @@ C:\Users\User\Documents\Obuchenie\dz2.10\dz2.10\obj\Debug\dz2.10.csproj.Assembly
 C:\Users\User\Documents\Obuchenie\dz2.10\dz2.10\obj\Debug\dz2.10.csproj.CoreCompileInputs.cache
 C:\Users\User\Documents\Obuchenie\dz2.10\dz2.10\obj\Debug\dz2.10.exe
 C:\Users\User\Documents\Obuchenie\dz2.10\dz2.10\obj\Debug\dz2.10.pdb
+F:\Projects\Obuchenie-Domashka\dz2.10\dz2.10\bin\Debug\dz2.10.exe.config
+F:\Projects\Obuchenie-Domashka\dz2.10\dz2.10\bin\Debug\dz2.10.exe
+F:\Projects\Obuchenie-Domashka\dz2.10\dz2.10\bin\Debug\dz2.10.pdb
+F:\Projects\Obuchenie-Domashka\dz2.10\dz2.10\obj\Debug\dz2.10.csproj.AssemblyReference.cache
+F:\Projects\Obuchenie-Domashka\dz2.10\dz2.10\obj\Debug\dz2.10.csproj.CoreCompileInputs.cache
+F:\Projects\Obuchenie-Domashka\dz2.10\dz2.10\obj\Debug\dz2.10.exe
+F:\Projects\Obuchenie-Domashka\dz2.10\dz2.10\obj\Debug\dz2.10.pdb
