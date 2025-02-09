@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Projects\\Obuchenie-Domashka\\dz5.3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F38CC448-A881-4348-A555-7C1F4349FED5}|dz5.3\\dz5.3.csproj|f:\\projects\\obuchenie-domashka\\dz5.3\\dz5.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38CC448-A881-4348-A555-7C1F4349FED5}|dz5.3\\dz5.3.csproj|solutionrelative:dz5.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Projects\\Obuchenie-Domashka\\dz5.3\\dz5.3\\Program.cs",
+              "RelativeDocumentMoniker": "dz5.3\\Program.cs",
+              "ToolTip": "F:\\Projects\\Obuchenie-Domashka\\dz5.3\\dz5.3\\Program.cs",
+              "RelativeToolTip": "dz5.3\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA7wBgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T16:07:29.122Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

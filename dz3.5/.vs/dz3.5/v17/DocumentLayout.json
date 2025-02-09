@@ -14,11 +14,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -26,8 +30,8 @@
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\Projects\\Obuchenie-Domashka\\dz3.5\\dz3.5\\Program.cs",
               "RelativeDocumentMoniker": "dz3.5\\Program.cs",
-              "ToolTip": "F:\\Projects\\Obuchenie-Domashka\\dz3.5\\dz3.5\\Program.cs*",
-              "RelativeToolTip": "dz3.5\\Program.cs*",
+              "ToolTip": "F:\\Projects\\Obuchenie-Domashka\\dz3.5\\dz3.5\\Program.cs",
+              "RelativeToolTip": "dz3.5\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T19:25:27.73Z",

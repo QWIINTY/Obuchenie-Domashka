@@ -1,0 +1,7 @@
+F:\Projects\Obuchenie-Domashka\dz5.2\dz5.2\bin\Debug\dz5.2.exe.config
+F:\Projects\Obuchenie-Domashka\dz5.2\dz5.2\bin\Debug\dz5.2.exe
+F:\Projects\Obuchenie-Domashka\dz5.2\dz5.2\bin\Debug\dz5.2.pdb
+F:\Projects\Obuchenie-Domashka\dz5.2\dz5.2\obj\Debug\dz5.2.csproj.AssemblyReference.cache
+F:\Projects\Obuchenie-Domashka\dz5.2\dz5.2\obj\Debug\dz5.2.csproj.CoreCompileInputs.cache
+F:\Projects\Obuchenie-Domashka\dz5.2\dz5.2\obj\Debug\dz5.2.exe
+F:\Projects\Obuchenie-Domashka\dz5.2\dz5.2\obj\Debug\dz5.2.pdb
